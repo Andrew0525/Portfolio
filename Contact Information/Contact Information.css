@@ -1,0 +1,20 @@
+body {
+    background-color: gray;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5%;
+    color: red;
+}
+
+.contact {
+    display: flex;
+    justify-content: space-between;
+}
+
+.logos {
+    display:flex;
+    justify-content: space-between;
+}

@@ -1,0 +1,60 @@
+body::before {
+    content: "";
+    background-image: url();
+    opacity: .75;
+    position:absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 5%;
+    color: gray;
+    /* dimgray slategray */
+}
+
+.header {
+    text-align: center;
+    color: red;
+    /* crimson darkred firebrick */
+    margin-bottom: 45%;
+}
+
+.sections {
+    color: gray;
+}
+
+.redBackground::before {
+    content: "";
+    background-color: red;
+    opacity: 0.5;
+    position:absolute;
+    top: 0px;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+}
+
+.redBackground:hover {
+    opacity: 1;
+}
+
+.ab {
+    padding-left: 10%;
+}
+
+.cs {
+    padding-left: 85%;
+}
+
+.pr {
+    padding-left: 25%;
+}
+
+.co {
+    padding-left: 65%;
+}
