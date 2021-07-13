@@ -12,7 +12,10 @@
     opacity: 0.8;
     background-image: url(https://i.imgur.com/7wvoG4p.jpg);
     background-repeat: no-repeat;
-    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size:contain;
 }
 
 .homeBody {
