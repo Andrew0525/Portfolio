@@ -22,9 +22,25 @@
 .navigationHome {
     display: flex;
     justify-content: flex-end;
-    margin-bottom: 5%;
+    margin-bottom: 25px;
     color: gray;
     /* dimgray slategray */
+}
+
+.hoNav {
+    margin-right: 5px;
+}
+
+.abNav {
+    margin-right: 5px;
+}
+
+.csNav {
+    margin-right: 5px;
+}
+
+.prNav {
+    margin-right: 5px;
 }
 
 a {
