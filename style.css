@@ -104,3 +104,7 @@ a.sections {
     justify-content: flex-end;
     color: red;
 }
+
+.about {
+    background-color: slategray;
+}
