@@ -105,7 +105,7 @@ a.sections {
 }
 
 .about {
-    background-color: slategray;
+    background-image: linear-gradient(to top right, slategray, dimgray);
 }
 
 a.navigation {
