@@ -26,7 +26,6 @@
     display: flex;
     justify-content: flex-end;
     margin-bottom: 25px;
-    color: gray;
     /* dimgray slategray */
 }
 
@@ -46,7 +45,7 @@
     margin-right: 5px;
 }
 
-a {
+a.navigationHome {
     color: slategray;
     text-decoration: none;
 }
