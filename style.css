@@ -106,6 +106,8 @@ a.sections {
 
 .about {
     background-image: linear-gradient(to top right, slategray, dimgray);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 a.navigation {
