@@ -12,9 +12,6 @@
     opacity: 0.8;
     background-image: url(https://i.imgur.com/7wvoG4p.jpg);
     background-repeat: no-repeat;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
     background-size:cover;
 }
 
@@ -57,8 +54,12 @@ a.navigationHome {
 }
 
 .sections {
-    color: gray;
     font-size: 30px;
+}
+
+a.sections {
+    color: slategray;
+    text-decoration: none;
 }
 
 .redBackground {
