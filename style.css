@@ -44,7 +44,7 @@
 }
 
 a {
-    color: gray;
+    color: slategray;
     text-decoration: none;
 }
 
@@ -61,6 +61,11 @@ a {
 
 .redBackground {
     background-color: red;
+    opacity: 0.5;
+}
+
+.redBackground:hover {
+    opacity: 1;
 }
 
 .ab {
