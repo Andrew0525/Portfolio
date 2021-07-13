@@ -1,3 +1,6 @@
+//ctrl+shift+v
+
+
 //$(".hO").click(function(){
     //jjj
 //});
