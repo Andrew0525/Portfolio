@@ -1,3 +1,5 @@
+/* Home Page */
+
 .home {
     position: relative;
 }
@@ -93,4 +95,12 @@ a.sections {
     padding-left: 55%;
     padding-top: 15px;
     padding-bottom: 15px;
+}
+
+/* About Me */
+
+.navigation {
+    display: flex;
+    justify-content: flex-end;
+    color: red;
 }
