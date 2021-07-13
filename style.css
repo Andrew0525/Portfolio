@@ -102,9 +102,13 @@ a.sections {
 .navigation {
     display: flex;
     justify-content: flex-end;
-    color: red;
 }
 
 .about {
     background-color: slategray;
+}
+
+a.navigation {
+    color: red;
+    text-decoration: none;
 }
