@@ -231,3 +231,40 @@ a.navigation {
     background-repeat: no-repeat;
     background-size: cover;
 }
+
+
+/* Projects */
+
+.projects {
+    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.projectPictures {
+    display: flex;
+}
+
+.firstWebsite {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px double red
+}
+
+.tic-tac-toe {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px double red
+}
+
+.earsketch1 {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px double red
+}
+
+.earsketch2 {
+    margin-left: 5%;
+    margin-right: 5%;
+    border: 5px double red
+}
