@@ -253,28 +253,38 @@ a.navigation {
 .firstWebsite {
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px double red
+    border: 5px double red;
+    max-width: 40%;
+    min-width: 40%
 }
 
 .tic-tac-toe {
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px double red
+    border: 5px double red;
+    max-width: 40%;
+    min-width: 40%;
 }
 
 .earsketch1 {
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px double red
+    border: 5px double red;
+    max-width: 40%;
+    min-width: 40%;
 }
 
 .earsketch2 {
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px double red
+    border: 5px double red;
+    max-width: 40%;
+    min-width: 40%;
 }
 
 a.projectLinks {
     color: red;
     text-decoration: none;
+    max-width: 40%;
+    min-width: 40%;
 }
