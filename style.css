@@ -97,6 +97,7 @@ a.sections {
     padding-bottom: 15px;
 }
 
+
 /* About Me */
 
 .navigation {
@@ -221,3 +222,12 @@ a.navigation {
     from {opacity: .4}
     to {opacity: 1}
   }
+
+
+/* CS Skills */
+
+.skills {
+    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
