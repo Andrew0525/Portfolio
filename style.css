@@ -268,3 +268,8 @@ a.navigation {
     margin-right: 5%;
     border: 5px double red
 }
+
+a.projectLinks {
+    color: red;
+    text-decoration: none;
+}
