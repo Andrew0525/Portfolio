@@ -124,6 +124,7 @@ a.navigation {
 .aboutBody {
     display: flex;
 }
+
 .me {
     margin-right: 25px;
 }
@@ -241,8 +242,12 @@ a.navigation {
     background-size: cover;
 }
 
-.projectPictures {
-    display: flex;
+.nextechProjects {
+    display:flex;
+}
+
+.schoolProjects {
+    display:flex;
 }
 
 .firstWebsite {
