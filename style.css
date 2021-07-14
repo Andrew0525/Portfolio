@@ -114,3 +114,15 @@ a.navigation {
     color: red;
     text-decoration: none;
 }
+
+.text {
+    color: red;
+    font-size: 24px;
+}
+
+.aboutBody {
+    display: flex;
+}
+.me {
+    margin-right: 25px;
+}
