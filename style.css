@@ -345,7 +345,11 @@ a.contactLinks {
     display: flex;
     justify-content: space-evenly;
     margin-top: 25px;
-    margin-left: 250px;
+    margin-left: 200px;
+}
+
+.round {
+    border-radius: 20px;
 }
 
 .text {
