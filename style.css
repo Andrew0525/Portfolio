@@ -330,4 +330,6 @@ a.contactLinks {
 .social {
     display: flex;
     justify-content: space-evenly;
+    margin-top: 25px;
+    margin-left: 250px;
 }
