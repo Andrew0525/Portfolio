@@ -300,11 +300,21 @@ a.projectLinks {
 
 .presentation {
     color: maroon;
-    font-size: 20px;
+    font-size: 25px;
+}
+
+.topics {
+    margin-top: 25px;
+    margin-bottom: 25px;
 }
 
 .underSlideshow {
     display: flex;
+    justify-content: space-evenly;
+}
+
+.description{
+    margin-right: 5%;
 }
 
 
@@ -346,4 +356,5 @@ a.contactLinks {
 .heading {
     margin-left: 15px;
     color: maroon;
+    font-size: 40px;
 }
