@@ -244,47 +244,54 @@ a.navigation {
 
 .nextechProjects {
     display:flex;
+    justify-content: space-evenly;
 }
 
 .schoolProjects {
     display:flex;
+    justify-content: space-evenly;
 }
 
 .firstWebsite {
     margin-left: 5%;
     margin-right: 5%;
     border: 5px double red;
-    max-width: 40%;
-    min-width: 40%
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
 .tic-tac-toe {
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border: 5px double red;
-    max-width: 40%;
-    min-width: 40%;
 }
 
 .earsketch1 {
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border: 5px double red;
-    max-width: 40%;
-    min-width: 40%;
 }
 
 .earsketch2 {
     margin-left: 5%;
     margin-right: 5%;
+    margin-top: 50px;
+    margin-bottom: 50px;
     border: 5px double red;
-    max-width: 40%;
-    min-width: 40%;
 }
 
 a.projectLinks {
     color: red;
     text-decoration: none;
-    max-width: 40%;
-    min-width: 40%;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
