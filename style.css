@@ -317,3 +317,17 @@ a.contactLinks {
     color: red;
     text-decoration: none;
 }
+
+.contact {
+    display: flex;
+}
+
+.emails {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.social {
+    display: flex;
+    justify-content: space-evenly;
+}
