@@ -301,7 +301,10 @@ a.projectLinks {
 .presentation {
     color: maroon;
     font-size: 20px;
-    text-align: center;
+}
+
+.underSlideshow {
+    display: flex;
 }
 
 
