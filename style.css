@@ -290,8 +290,14 @@ a.projectLinks {
 
 /* Special Topics Presentation */
 
-.specialProjects {
+.specialTopics {
     background-image: linear-gradient(to top right, slategray, dimgray);
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.presentation {
+    color: red;
+    font-size: 20px;
+    text-align: center;
 }
