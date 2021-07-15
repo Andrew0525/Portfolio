@@ -303,3 +303,17 @@ a.projectLinks {
     font-size: 20px;
     text-align: center;
 }
+
+
+/* Contact Information */
+
+.contactInfo {
+    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+a.contactLinks {
+    color: red;
+    text-decoration: none;
+}
