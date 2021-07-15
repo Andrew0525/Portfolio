@@ -236,22 +236,13 @@ a.navigation {
     background-size: cover;
 }
 
-.nextechProjects {
-    display:flex;
-    justify-content: space-evenly;
-}
-
-.schoolProjects {
-    display:flex;
-    justify-content: space-evenly;
-}
-
 .firstWebsite {
     margin-left: 5%;
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
-    max-width: 65%;
+    max-width: 100%;
+    border: 5px double maroon;
 }
 
 .tic-tac-toe {
@@ -259,7 +250,8 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
-    max-width: 65%;
+    max-width: 100%;
+    border: 5px double maroon;
 }
 
 .earsketch1 {
@@ -267,6 +259,8 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
+    max-width: 100%;
+    border: 5px double maroon;
 }
 
 .earsketch2 {
@@ -274,11 +268,14 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
+    max-width: 100%;
+    border: 5px double maroon;
 }
 
 a.projectLinks {
     color: maroon;
     text-decoration: none;
+    font-size: 24px;
 }
 
 .center {
@@ -286,6 +283,10 @@ a.projectLinks {
     margin-left: auto;
     margin-right: auto;
     width: 50%;
+}
+
+.projectPicture {
+    padding: 15px;
 }
 
 
