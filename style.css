@@ -52,7 +52,7 @@ a.navigationHome {
 }
 
 .header {
-    color: red;
+    color: maroon;
     /* crimson darkred firebrick */
     margin-bottom: 150px;
 }
@@ -62,12 +62,12 @@ a.navigationHome {
 }
 
 a.sections {
-    color: slategray;
+    color: lightgray;
     text-decoration: none;
 }
 
 .redBackground {
-    background-color: red;
+    background-color: maroon;
     opacity: 0.5;
 }
 
@@ -108,19 +108,20 @@ a.sections {
 }
 
 .about {
-    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-image: linear-gradient(to top right, slategray, lightgray, slategray);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 a.navigation {
-    color: red;
+    color: maroon;
     text-decoration: none;
+    font-size: 15px;
 }
 
 .text {
-    color: red;
-    font-size: 20px;
+    color: maroon;
+    font-size: 25px;
 }
 
 .aboutBody {
@@ -138,7 +139,7 @@ a.navigation {
     max-width: 1000px;
     position: relative;
     margin: auto;
-    border: 10px ridge red;
+    border: 10px ridge maroon;
   }
   
   /* Hide the images by default */
@@ -175,7 +176,7 @@ a.navigation {
   
   /* Caption text */
   .caption {
-    color: red;
+    color: maroon;
     font-size: 15px;
     padding: 8px 12px;
     position: absolute;
@@ -186,7 +187,7 @@ a.navigation {
   
   /* Number text (1/3 etc) */
   .numbertext {
-    color: red;
+    color: maroon;
     font-size: 12px;
     padding: 8px 12px;
     position: absolute;
@@ -231,7 +232,7 @@ a.navigation {
 /* Projects */
 
 .projects {
-    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-image: linear-gradient(to top right, slategray, lightgray, slategray);
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -249,7 +250,6 @@ a.navigation {
 .firstWebsite {
     margin-left: 5%;
     margin-right: 5%;
-    border: 5px double red;
     margin-top: 50px;
     margin-bottom: 50px;
     max-width: 65%;
@@ -260,7 +260,6 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
-    border: 5px double red;
     max-width: 65%;
 }
 
@@ -269,7 +268,6 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
-    border: 5px double red;
 }
 
 .earsketch2 {
@@ -277,11 +275,10 @@ a.navigation {
     margin-right: 5%;
     margin-top: 50px;
     margin-bottom: 50px;
-    border: 5px double red;
 }
 
 a.projectLinks {
-    color: red;
+    color: maroon;
     text-decoration: none;
 }
 
@@ -296,13 +293,13 @@ a.projectLinks {
 /* Special Topics Presentation */
 
 .specialTopics {
-    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-image: linear-gradient(to top right, slategray, lightgray, slategray);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .presentation {
-    color: red;
+    color: maroon;
     font-size: 20px;
     text-align: center;
 }
@@ -311,13 +308,13 @@ a.projectLinks {
 /* Contact Information */
 
 .contactInfo {
-    background-image: linear-gradient(to top right, slategray, dimgray);
+    background-image: linear-gradient(to top right, slategray, lightgray, slategray);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 a.contactLinks {
-    color: red;
+    color: maroon;
     text-decoration: none;
 }
 
@@ -345,4 +342,5 @@ a.contactLinks {
 
 .heading {
     margin-left: 15px;
+    color: maroon;
 }
